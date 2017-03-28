@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Intermediate/ProjectFiles/IncludeDirectories.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Intermediate/ProjectFiles/QuestRoomEditor.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Intermediate/ProjectFiles/Definitions.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Intermediate/ProjectFiles/QuestRoom.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom.Target.cs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/PositionReporter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/OpenDoor.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/PositionReporter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/QuestRoomGameModeBase.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/QuestRoom.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/QuestRoom.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/OpenDoor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/QuestRoomGameModeBase.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoom/QuestRoom.Build.cs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Source/QuestRoomEditor.Target.cs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/QuestRoom.uproject" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/llvm-3.8/lib/clang/3.8.0/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Source" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ClothingSystemRuntimeInterface" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/GameplayDebugger" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AutomationController" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ContentBrowser" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/EngineMessages" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/GameplayTasks" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Kismet" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/SourceCodeAccess" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/GraphEditor" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Landscape" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/PacketHandler" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/InputCore" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ClassViewer" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AudioEditor" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/UnrealEdMessages" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/UnrealEd" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/EditorStyle" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Engine" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/EngineSettings" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/FunctionalTesting" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/SlateCore" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/HeadMountedDisplay" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AddContentDialog" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/VREditor" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/IntroTutorials" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/CoreUObject" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/GameplayTags" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AIModule" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Slate" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AssetRegistry" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/BlueprintGraph" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/include" />
+          <root url="file:///usr/lib/llvm-3.8/lib/clang/3.8.0/include" />
+          <root url="file:///usr/local/include" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Source" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ClothingSystemRuntimeInterface" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/GameplayDebugger" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AutomationController" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ContentBrowser" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/EngineMessages" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/GameplayTasks" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Kismet" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/SourceCodeAccess" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/GraphEditor" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Landscape" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/PacketHandler" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/InputCore" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/ClassViewer" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AudioEditor" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/UnrealEdMessages" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/UnrealEd" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/EditorStyle" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Engine" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/EngineSettings" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/FunctionalTesting" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/SlateCore" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/HeadMountedDisplay" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AddContentDialog" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/VREditor" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/IntroTutorials" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/CoreUObject" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/GameplayTags" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AIModule" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/Slate" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/AssetRegistry" />
+          <root url="file://$USER_HOME$/Tools/UnrealEngine-master/Engine/Intermediate/Build/Linux/B4D820EA/UE4Editor/Inc/BlueprintGraph" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

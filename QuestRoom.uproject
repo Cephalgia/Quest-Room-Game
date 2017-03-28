@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1DB23EDC-1302-1311-0004-009A585D6F48}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "QuestRoom",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
