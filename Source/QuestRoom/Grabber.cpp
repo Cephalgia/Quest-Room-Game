@@ -20,7 +20,12 @@ void UGrabber::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
+	// Find attached physics handle
+	PhysicsHandle = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
+	if(!PhysicsHandle) 
+	{
+		UE_LOG(LogTemp, Error, TEXT("%s handle not found"), *(GetOwner()->GetName()));
+	}
 	
 }
 
@@ -35,10 +40,6 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	FRotator PlayerRotation;
 	GetWorld()-> GetFirstPlayerController()->GetPlayerViewPoint(PlayerLocation, PlayerRotation);
 	
-	// Log player view point
-	//UE_LOG(LogTemp, Warning, TEXT("player location: %s, rotation: %s"), *PlayerLocation.ToString(), *PlayerRotation.ToString())
-	
-	float Reach = 100.f;
 	FVector LineTraceEnd = PlayerLocation + PlayerRotation.Vector()*Reach;
 	DrawDebugLine(GetWorld(), PlayerLocation, LineTraceEnd, FColor(255, 0, 0), false, 0.f, 0.f, 10.f);
 	
@@ -52,7 +53,10 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 		FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody),
 		TraceParameters
 	);
-	
+	if(Hit.GetActor() != nullptr)
+	{
+		UE_LOG(LogTemp, Warning, TEXT("%s is hit"), *(Hit.GetActor()->GetName()));
+	}
 	
 }
 
