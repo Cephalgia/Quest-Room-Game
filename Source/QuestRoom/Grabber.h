@@ -26,5 +26,21 @@ public:
 private:
 	float Reach = 100.f;
 	UPhysicsHandleComponent* PhysicsHandle = nullptr;
+	UInputComponent* InputComponent = nullptr;
+	
+	// Ray-cast and grab an object in reach
+	void Grab();
+	
+	// Called on grab release
+	void Release();
+	
+	// Finds attached physics handle
+	void FindPhysicsHandleComponent();
+	
+	// Sets up attached input component
+	void SetupInputComponent();
+	
+	// Returns hit for the first physics body in reach
+	const FHitResult GetFirstPhysicsBodyInReach();
 	
 };

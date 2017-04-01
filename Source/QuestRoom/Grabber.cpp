@@ -20,28 +20,56 @@ void UGrabber::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// Find attached physics handle
+	FindPhysicsHandleComponent();
+	
+	SetupInputComponent();
+	
+	
+}
+
+void UGrabber::FindPhysicsHandleComponent()
+{
 	PhysicsHandle = GetOwner()->FindComponentByClass<UPhysicsHandleComponent>();
 	if(!PhysicsHandle) 
 	{
 		UE_LOG(LogTemp, Error, TEXT("%s handle not found"), *(GetOwner()->GetName()));
 	}
-	
 }
 
-
-// Called every frame
-void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
+void UGrabber::Grab() 
 {
-	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
+	UE_LOG(LogTemp, Warning, TEXT("Grab pressed"));
+	GetFirstPhysicsBodyInReach();
+}
 
+void UGrabber::Release() 
+{
+	UE_LOG(LogTemp, Warning, TEXT("Grab released"));
+}
+
+void UGrabber::SetupInputComponent() 
+{
+	InputComponent = GetOwner()->FindComponentByClass<UInputComponent>();
+	if(!InputComponent) 
+	{
+		UE_LOG(LogTemp, Error, TEXT("%s input component not found"), *(GetOwner()->GetName()));
+	} else 
+	{
+		UE_LOG(LogTemp, Warning, TEXT("%s input component found"), *(GetOwner()->GetName()));
+		InputComponent->BindAction("Grab", IE_Pressed, this, &UGrabber::Grab);
+		InputComponent->BindAction("Grab", IE_Released, this, &UGrabber::Release);
+	}
+}
+
+const FHitResult UGrabber::GetFirstPhysicsBodyInReach()
+{
 	// Get player view point
 	FVector PlayerLocation;
 	FRotator PlayerRotation;
 	GetWorld()-> GetFirstPlayerController()->GetPlayerViewPoint(PlayerLocation, PlayerRotation);
 	
 	FVector LineTraceEnd = PlayerLocation + PlayerRotation.Vector()*Reach;
-	DrawDebugLine(GetWorld(), PlayerLocation, LineTraceEnd, FColor(255, 0, 0), false, 0.f, 0.f, 10.f);
+	
 	
 	FCollisionQueryParams TraceParameters(FName(TEXT("")), false, GetOwner());
 	
@@ -57,6 +85,13 @@ void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompone
 	{
 		UE_LOG(LogTemp, Warning, TEXT("%s is hit"), *(Hit.GetActor()->GetName()));
 	}
-	
+	return Hit;
+}
+
+// Called every frame
+void UGrabber::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
+{
+	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
+
 }
 
