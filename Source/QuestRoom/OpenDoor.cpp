@@ -2,6 +2,7 @@
 
 #include "QuestRoom.h"
 #include "OpenDoor.h"
+#include <string>
 
 
 // Sets default values for this component's properties
@@ -34,6 +35,7 @@ float UOpenDoor::GetTotalMassOfActorsOnPlate()
 			TotalMass += Actor->FindComponentByClass<UPrimitiveComponent>()->GetMass();
 		}
     }
+    //UE_LOG(LogTemp, Warning, TEXT("Total mass: %s"), *(FString::SanitizeFloat(TotalMass)));
     return TotalMass;
 }
 
@@ -44,7 +46,7 @@ void UOpenDoor::TickComponent(float DeltaTime, ELevelTick TickType, FActorCompon
 
     if(PressurePlate != nullptr)
     {
-        if(GetTotalMassOfActorsOnPlate() >= TriggerMass)
+        if(GetTotalMassOfActorsOnPlate() == TriggerMass)
 		{
 			OnOpen.Broadcast();			
 		} else {
