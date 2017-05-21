@@ -6639,9 +6639,9 @@ set(SOURCE_FILES
 	"${GAME_ROOT_PATH}/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp"
 	"${GAME_ROOT_PATH}/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp"
 	"${GAME_ROOT_PATH}/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp"
+	"${GAME_ROOT_PATH}/Source/QuestRoom/ChargeDevice.cpp"
 	"${GAME_ROOT_PATH}/Source/QuestRoom/Grabber.cpp"
 	"${GAME_ROOT_PATH}/Source/QuestRoom/OpenDoor.cpp"
-	"${GAME_ROOT_PATH}/Source/QuestRoom/PositionReporter.cpp"
 	"${GAME_ROOT_PATH}/Source/QuestRoom/QuestRoom.cpp"
 	"${GAME_ROOT_PATH}/Source/QuestRoom/QuestRoomGameModeBase.cpp"
  )
@@ -15229,9 +15229,9 @@ set(HEADER_FILES
 	"${GAME_ROOT_PATH}/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.h"
 	"${GAME_ROOT_PATH}/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessPrivatePCH.h"
 	"${GAME_ROOT_PATH}/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.h"
+	"${GAME_ROOT_PATH}/Source/QuestRoom/ChargeDevice.h"
 	"${GAME_ROOT_PATH}/Source/QuestRoom/Grabber.h"
 	"${GAME_ROOT_PATH}/Source/QuestRoom/OpenDoor.h"
-	"${GAME_ROOT_PATH}/Source/QuestRoom/PositionReporter.h"
 	"${GAME_ROOT_PATH}/Source/QuestRoom/QuestRoom.h"
 	"${GAME_ROOT_PATH}/Source/QuestRoom/QuestRoomGameModeBase.h"
  )

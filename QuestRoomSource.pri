@@ -6628,9 +6628,9 @@ SOURCES += \
 	"$$QuestRoomRootPath/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSettings.cpp" \
 	"$$QuestRoomRootPath/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.cpp" \
 	"$$QuestRoomRootPath/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.cpp" \
+	"$$QuestRoomRootPath/Source/QuestRoom/ChargeDevice.cpp" \
 	"$$QuestRoomRootPath/Source/QuestRoom/Grabber.cpp" \
 	"$$QuestRoomRootPath/Source/QuestRoom/OpenDoor.cpp" \
-	"$$QuestRoomRootPath/Source/QuestRoom/PositionReporter.cpp" \
 	"$$QuestRoomRootPath/Source/QuestRoom/QuestRoom.cpp" \
 	"$$QuestRoomRootPath/Source/QuestRoom/QuestRoomGameModeBase.cpp" \
  

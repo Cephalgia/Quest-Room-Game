@@ -36,7 +36,7 @@ float UOpenDoor::GetTotalMassOfActorsOnPlate()
 			UE_LOG(LogTemp, Warning, TEXT("Calculating mass"));
 		}
     }
-    UE_LOG(LogTemp, Warning, TEXT("Total mass: %s"), *(FString::SanitizeFloat(TotalMass)));
+    //UE_LOG(LogTemp, Warning, TEXT("Total mass: %s"), *(FString::SanitizeFloat(TotalMass)));
     return TotalMass;
 }
 

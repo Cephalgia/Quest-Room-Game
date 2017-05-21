@@ -2,27 +2,27 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
     <generated>
-      <config projectName="UE4" targetName="QuestRoom-Mac-DebugGame" />
-      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Shipping" />
-      <config projectName="UE4" targetName="QuestRoom-Mac-Debug" />
-      <config projectName="UE4" targetName="QuestRoomEditor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="QuestRoom-clean" />
-      <config projectName="UE4" targetName="QuestRoom" />
-      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Debug-clean" />
-      <config projectName="UE4" targetName="QuestRoomEditor-Mac-DebugGame-clean" />
-      <config projectName="UE4" targetName="QuestRoomEditor" />
-      <config projectName="UE4" targetName="QuestRoom-Mac-Debug-clean" />
-      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Test-clean" />
-      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Shipping-clean" />
-      <config projectName="UE4" targetName="QuestRoom-Mac-Test-clean" />
-      <config projectName="UE4" targetName="QuestRoom-Mac-DebugGame-clean" />
-      <config projectName="UE4" targetName="QuestRoom-Mac-Test" />
-      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Test" />
       <config projectName="UE4" targetName="QuestRoom-Mac-Shipping" />
       <config projectName="UE4" targetName="QuestRoom-Mac-Shipping-clean" />
-      <config projectName="UE4" targetName="QuestRoomEditorFake" />
-      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Debug" />
       <config projectName="UE4" targetName="QuestRoomEditor-clean" />
+      <config projectName="UE4" targetName="QuestRoom-Mac-Debug-clean" />
+      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Shipping-clean" />
+      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Shipping" />
+      <config projectName="UE4" targetName="QuestRoom-Mac-Debug" />
+      <config projectName="UE4" targetName="QuestRoomEditorFake" />
+      <config projectName="UE4" targetName="QuestRoom-clean" />
+      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Test" />
+      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Test-clean" />
+      <config projectName="UE4" targetName="QuestRoomEditor-Mac-DebugGame" />
+      <config projectName="UE4" targetName="QuestRoom" />
+      <config projectName="UE4" targetName="QuestRoom-Mac-Test" />
+      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Debug-clean" />
+      <config projectName="UE4" targetName="QuestRoom-Mac-Test-clean" />
+      <config projectName="UE4" targetName="QuestRoomEditor-Mac-DebugGame-clean" />
+      <config projectName="UE4" targetName="QuestRoom-Mac-DebugGame-clean" />
+      <config projectName="UE4" targetName="QuestRoomEditor" />
+      <config projectName="UE4" targetName="QuestRoom-Mac-DebugGame" />
+      <config projectName="UE4" targetName="QuestRoomEditor-Mac-Debug" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
@@ -32,9 +32,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d042f44-2f13-451b-9ce4-bd00e48802a1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/DefaultPawn_BP.uasset" afterPath="$PROJECT_DIR$/Content/DefaultPawn_BP.uasset" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/NewMap.umap" afterPath="$PROJECT_DIR$/Content/NewMap.umap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/NewMap_BuiltData.uasset" afterPath="$PROJECT_DIR$/Content/NewMap_BuiltData.uasset" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QuestRoomHeader.pri" afterPath="$PROJECT_DIR$/QuestRoomHeader.pri" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QuestRoomSource.pri" afterPath="$PROJECT_DIR$/QuestRoomSource.pri" />
     </list>
     <ignored path="QuestRoom.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,21 +68,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpenDoor.cpp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OpenDoor.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+            <state relative-caret-position="510">
+              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Grabber.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/Grabber.cpp">
+      <file leaf-file-name="OpenDoor.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="95" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="95" />
+            <state relative-caret-position="350">
+              <caret line="29" column="23" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChargeDevice.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChargeDevice.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -97,6 +121,8 @@
         <option value="$PROJECT_DIR$/Source/QuestRoom/QuestRoomGameModeBase.h" />
         <option value="$PROJECT_DIR$/Source/QuestRoom/Grabber.cpp" />
         <option value="$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp" />
+        <option value="$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.h" />
+        <option value="$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.cpp" />
       </list>
     </option>
   </component>
@@ -166,6 +192,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuestRoom" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuestRoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QuestRoom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -486,17 +530,18 @@
       <workItem from="1491941334861" duration="1674000" />
       <workItem from="1492959330213" duration="1724000" />
       <workItem from="1494840468770" duration="22000" />
+      <workItem from="1495379975282" duration="1111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21083000" />
+    <option name="totallyTimeSpent" value="22194000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2083013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2083013" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298351" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -532,22 +577,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/Grabber.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/Grabber.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -754,13 +783,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/PositionReporter.h" />
-    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/PositionReporter.cpp" />
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/Grabber.h">
       <provider selected="true" editor-type-id="text-editor">
@@ -789,15 +811,39 @@
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/Grabber.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
-          <caret line="65" column="95" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="95" />
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="29" column="23" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        <state relative-caret-position="510">
+          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
           <folding />
         </state>
       </provider>
