@@ -32,11 +32,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d042f44-2f13-451b-9ce4-bd00e48802a1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/DefaultPawn_BP.uasset" afterPath="$PROJECT_DIR$/Content/DefaultPawn_BP.uasset" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/BSDoorWall.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/BookShelf.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/BookShelf_BP.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/DeviceScreen.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/InfoPaper_BP.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/M_Brick_Clay_Old_Custom.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/M_Wood_Walnut_Custom.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/Material.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/Note_BP.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/OpenableDoor_BP.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/PlaidCloth.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/SimpleCloth.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/TexturesCom_FabricPatterns0121_2_seamless_S.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/TexturesCom_FabricPlain0020_1_seamless_S.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/WordDevice_BP.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/WordDevice_m.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/device.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/device1.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/paper.uasset" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Content/paper1.uasset" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/NewMap.umap" afterPath="$PROJECT_DIR$/Content/NewMap.umap" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Content/NewMap_BuiltData.uasset" afterPath="$PROJECT_DIR$/Content/NewMap_BuiltData.uasset" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QuestRoomHeader.pri" afterPath="$PROJECT_DIR$/QuestRoomHeader.pri" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QuestRoomSource.pri" afterPath="$PROJECT_DIR$/QuestRoomSource.pri" />
     </list>
@@ -58,52 +77,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuestRoomGameModeBase.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/QuestRoomGameModeBase.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="OpenDoor.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
+            <state relative-caret-position="870">
+              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OpenDoor.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.h">
+      <file leaf-file-name="CaesarDecrypt.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/CaesarDecrypt.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="29" column="23" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="330">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding>
+                <element signature="e#80#102#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChargeDevice.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.cpp">
+      <file leaf-file-name="CaesarDecrypt.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/CaesarDecrypt.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChargeDevice.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="255">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="e#94#138#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +126,8 @@
         <option value="$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp" />
         <option value="$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.h" />
         <option value="$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.cpp" />
+        <option value="$PROJECT_DIR$/Source/QuestRoom/CaesarDecrypt.h" />
+        <option value="$PROJECT_DIR$/Source/QuestRoom/CaesarDecrypt.cpp" />
       </list>
     </option>
   </component>
@@ -531,11 +536,13 @@
       <workItem from="1492959330213" duration="1724000" />
       <workItem from="1494840468770" duration="22000" />
       <workItem from="1495379975282" duration="1111000" />
+      <workItem from="1495556382072" duration="326000" />
+      <workItem from="1496076934246" duration="2075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22194000" />
+    <option name="totallyTimeSpent" value="24595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
@@ -577,20 +584,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/Grabber.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/PositionReporter.cpp" />
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/PositionReporter.h" />
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp">
@@ -758,13 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <caret line="6649" column="21" selection-start-line="6649" selection-start-column="21" selection-end-line="6649" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -802,32 +788,8 @@
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/MyQuestRoomGameModeBase_BP.h" />
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/QuestRoomGameModeBase.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="0">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/Grabber.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="24" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="29" column="23" selection-start-line="26" selection-start-column="4" selection-end-line="29" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -842,9 +804,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Source/QuestRoom/ChargeDevice.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" column="38" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        <state relative-caret-position="450">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99735">
+          <caret line="6649" column="17" selection-start-line="6649" selection-start-column="17" selection-end-line="6649" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/Grabber.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/OpenDoor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/CaesarDecrypt.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#94#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Source/QuestRoom/CaesarDecrypt.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="e#80#102#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

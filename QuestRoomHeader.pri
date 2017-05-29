@@ -8581,6 +8581,7 @@ HEADERS += \
 	"$$QuestRoomRootPath/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessModule.h" \
 	"$$QuestRoomRootPath/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessPrivatePCH.h" \
 	"$$QuestRoomRootPath/Plugins/CLionSourceCodeAccess-master/Source/CLionSourceCodeAccess/Private/CLionSourceCodeAccessor.h" \
+	"$$QuestRoomRootPath/Source/QuestRoom/CaesarDecrypt.h" \
 	"$$QuestRoomRootPath/Source/QuestRoom/ChargeDevice.h" \
 	"$$QuestRoomRootPath/Source/QuestRoom/Grabber.h" \
 	"$$QuestRoomRootPath/Source/QuestRoom/OpenDoor.h" \
