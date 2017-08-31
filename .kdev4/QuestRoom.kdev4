@@ -2,7 +2,7 @@
 CurrentConfiguration=BuildConfig0
 
 [CustomBuildSystem][BuildConfig0]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BuildMeFirst
 
 [CustomBuildSystem][BuildConfig0][ToolBuild]
@@ -27,7 +27,7 @@ Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig1]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Client-Linux-Debug
 
 [CustomBuildSystem][BuildConfig1][ToolBuild]
@@ -52,7 +52,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig2]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Client-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig2][ToolBuild]
@@ -77,7 +77,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig3]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Client-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig3][ToolBuild]
@@ -102,7 +102,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig4]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Client-Linux-Test
 
 [CustomBuildSystem][BuildConfig4][ToolBuild]
@@ -127,7 +127,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig5]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Client
 
 [CustomBuildSystem][BuildConfig5][ToolBuild]
@@ -152,7 +152,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig6]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Editor-Linux-Debug
 
 [CustomBuildSystem][BuildConfig6][ToolBuild]
@@ -177,7 +177,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig7]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Editor-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig7][ToolBuild]
@@ -202,7 +202,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig8]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Editor-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig8][ToolBuild]
@@ -227,7 +227,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig9]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Editor-Linux-Test
 
 [CustomBuildSystem][BuildConfig9][ToolBuild]
@@ -252,7 +252,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig10]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Editor
 
 [CustomBuildSystem][BuildConfig10][ToolBuild]
@@ -277,7 +277,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig11]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Game-Linux-Debug
 
 [CustomBuildSystem][BuildConfig11][ToolBuild]
@@ -302,7 +302,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig12]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Game-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig12][ToolBuild]
@@ -327,7 +327,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig13]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Game-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig13][ToolBuild]
@@ -352,7 +352,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig14]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Game-Linux-Test
 
 [CustomBuildSystem][BuildConfig14][ToolBuild]
@@ -377,7 +377,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig15]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Game
 
 [CustomBuildSystem][BuildConfig15][ToolBuild]
@@ -402,7 +402,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig16]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Server-Linux-Debug
 
 [CustomBuildSystem][BuildConfig16][ToolBuild]
@@ -427,7 +427,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig17]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Server-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig17][ToolBuild]
@@ -452,7 +452,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig18]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Server-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig18][ToolBuild]
@@ -477,7 +477,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig19]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Server-Linux-Test
 
 [CustomBuildSystem][BuildConfig19][ToolBuild]
@@ -502,7 +502,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig20]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4Server
 
 [CustomBuildSystem][BuildConfig20][ToolBuild]
@@ -527,7 +527,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig21]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BlankProgram-Linux-Debug
 
 [CustomBuildSystem][BuildConfig21][ToolBuild]
@@ -552,7 +552,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig22]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BlankProgram-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig22][ToolBuild]
@@ -577,7 +577,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig23]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BlankProgram-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig23][ToolBuild]
@@ -602,7 +602,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig24]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BlankProgram-Linux-Test
 
 [CustomBuildSystem][BuildConfig24][ToolBuild]
@@ -627,7 +627,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig25]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BlankProgram
 
 [CustomBuildSystem][BuildConfig25][ToolBuild]
@@ -652,7 +652,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig26]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BuildPatchTool-Linux-Debug
 
 [CustomBuildSystem][BuildConfig26][ToolBuild]
@@ -677,7 +677,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig27]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BuildPatchTool-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig27][ToolBuild]
@@ -702,7 +702,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig28]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BuildPatchTool-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig28][ToolBuild]
@@ -727,7 +727,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig29]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BuildPatchTool-Linux-Test
 
 [CustomBuildSystem][BuildConfig29][ToolBuild]
@@ -752,7 +752,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig30]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BuildPatchTool
 
 [CustomBuildSystem][BuildConfig30][ToolBuild]
@@ -777,7 +777,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig31]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=CrashReportClient-Linux-Debug
 
 [CustomBuildSystem][BuildConfig31][ToolBuild]
@@ -802,7 +802,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig32]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=CrashReportClient-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig32][ToolBuild]
@@ -827,7 +827,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig33]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=CrashReportClient-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig33][ToolBuild]
@@ -852,7 +852,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig34]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=CrashReportClient-Linux-Test
 
 [CustomBuildSystem][BuildConfig34][ToolBuild]
@@ -877,7 +877,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig35]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=CrashReportClient
 
 [CustomBuildSystem][BuildConfig35][ToolBuild]
@@ -902,7 +902,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig36]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=MinidumpDiagnostics-Linux-Debug
 
 [CustomBuildSystem][BuildConfig36][ToolBuild]
@@ -927,7 +927,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig37]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=MinidumpDiagnostics-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig37][ToolBuild]
@@ -952,7 +952,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig38]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=MinidumpDiagnostics-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig38][ToolBuild]
@@ -977,7 +977,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig39]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=MinidumpDiagnostics-Linux-Test
 
 [CustomBuildSystem][BuildConfig39][ToolBuild]
@@ -1002,7 +1002,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig40]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=MinidumpDiagnostics
 
 [CustomBuildSystem][BuildConfig40][ToolBuild]
@@ -1027,7 +1027,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig41]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLaunchDaemon-Linux-Debug
 
 [CustomBuildSystem][BuildConfig41][ToolBuild]
@@ -1052,7 +1052,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig42]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLaunchDaemon-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig42][ToolBuild]
@@ -1077,7 +1077,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig43]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLaunchDaemon-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig43][ToolBuild]
@@ -1102,7 +1102,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig44]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLaunchDaemon-Linux-Test
 
 [CustomBuildSystem][BuildConfig44][ToolBuild]
@@ -1127,7 +1127,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig45]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLaunchDaemon
 
 [CustomBuildSystem][BuildConfig45][ToolBuild]
@@ -1152,7 +1152,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig46]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=DsymExporter-Linux-Debug
 
 [CustomBuildSystem][BuildConfig46][ToolBuild]
@@ -1177,7 +1177,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig47]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=DsymExporter-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig47][ToolBuild]
@@ -1202,7 +1202,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig48]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=DsymExporter-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig48][ToolBuild]
@@ -1227,7 +1227,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig49]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=DsymExporter-Linux-Test
 
 [CustomBuildSystem][BuildConfig49][ToolBuild]
@@ -1252,7 +1252,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig50]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=DsymExporter
 
 [CustomBuildSystem][BuildConfig50][ToolBuild]
@@ -1277,7 +1277,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig51]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=ShaderCacheTool-Linux-Debug
 
 [CustomBuildSystem][BuildConfig51][ToolBuild]
@@ -1302,7 +1302,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig52]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=ShaderCacheTool-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig52][ToolBuild]
@@ -1327,7 +1327,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig53]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=ShaderCacheTool-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig53][ToolBuild]
@@ -1352,7 +1352,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig54]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=ShaderCacheTool-Linux-Test
 
 [CustomBuildSystem][BuildConfig54][ToolBuild]
@@ -1377,7 +1377,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig55]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=ShaderCacheTool
 
 [CustomBuildSystem][BuildConfig55][ToolBuild]
@@ -1402,7 +1402,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig56]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4EditorServices-Linux-Debug
 
 [CustomBuildSystem][BuildConfig56][ToolBuild]
@@ -1427,7 +1427,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig57]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4EditorServices-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig57][ToolBuild]
@@ -1452,7 +1452,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig58]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4EditorServices-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig58][ToolBuild]
@@ -1477,7 +1477,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig59]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4EditorServices-Linux-Test
 
 [CustomBuildSystem][BuildConfig59][ToolBuild]
@@ -1502,7 +1502,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig60]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UE4EditorServices
 
 [CustomBuildSystem][BuildConfig60][ToolBuild]
@@ -1527,7 +1527,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig61]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealAtoS-Linux-Debug
 
 [CustomBuildSystem][BuildConfig61][ToolBuild]
@@ -1552,7 +1552,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig62]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealAtoS-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig62][ToolBuild]
@@ -1577,7 +1577,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig63]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealAtoS-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig63][ToolBuild]
@@ -1602,7 +1602,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig64]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealAtoS-Linux-Test
 
 [CustomBuildSystem][BuildConfig64][ToolBuild]
@@ -1627,7 +1627,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig65]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealAtoS
 
 [CustomBuildSystem][BuildConfig65][ToolBuild]
@@ -1652,757 +1652,757 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig66]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=ShaderCompileWorker-Linux-Debug
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=MayaLiveLinkPlugin-Linux-Debug
 
 [CustomBuildSystem][BuildConfig66][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Debug
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig66][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux Debug
+Arguments=./GenerateProjectFiles.sh  MayaLiveLinkPlugin Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig66][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Debug -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux Debug -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig67]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=ShaderCompileWorker-Linux-DebugGame
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=MayaLiveLinkPlugin-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig67][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux DebugGame
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig67][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux DebugGame
+Arguments=./GenerateProjectFiles.sh  MayaLiveLinkPlugin Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig67][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux DebugGame -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux DebugGame -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig68]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=ShaderCompileWorker-Linux-Shipping
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=MayaLiveLinkPlugin-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig68][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Shipping
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig68][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux Shipping
+Arguments=./GenerateProjectFiles.sh  MayaLiveLinkPlugin Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig68][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Shipping -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux Shipping -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig69]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=ShaderCompileWorker-Linux-Test
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=MayaLiveLinkPlugin-Linux-Test
 
 [CustomBuildSystem][BuildConfig69][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Test
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig69][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux Test
+Arguments=./GenerateProjectFiles.sh  MayaLiveLinkPlugin Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig69][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Test -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux Test -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig70]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=ShaderCompileWorker
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=MayaLiveLinkPlugin
 
 [CustomBuildSystem][BuildConfig70][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Development
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig70][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux Development
+Arguments=./GenerateProjectFiles.sh  MayaLiveLinkPlugin Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig70][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Development -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  MayaLiveLinkPlugin Linux Development -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig71]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SlateViewer-Linux-Debug
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=ShaderCompileWorker-Linux-Debug
 
 [CustomBuildSystem][BuildConfig71][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Debug
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig71][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SlateViewer Linux Debug
+Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig71][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Debug -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Debug -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig72]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SlateViewer-Linux-DebugGame
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=ShaderCompileWorker-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig72][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux DebugGame
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig72][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SlateViewer Linux DebugGame
+Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig72][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux DebugGame -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux DebugGame -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig73]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SlateViewer-Linux-Shipping
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=ShaderCompileWorker-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig73][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Shipping
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig73][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SlateViewer Linux Shipping
+Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig73][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Shipping -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Shipping -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig74]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SlateViewer-Linux-Test
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=ShaderCompileWorker-Linux-Test
 
 [CustomBuildSystem][BuildConfig74][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Test
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig74][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SlateViewer Linux Test
+Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig74][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Test -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Test -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig75]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SlateViewer
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=ShaderCompileWorker
 
 [CustomBuildSystem][BuildConfig75][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Development
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig75][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SlateViewer Linux Development
+Arguments=./GenerateProjectFiles.sh  ShaderCompileWorker Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig75][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Development -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  ShaderCompileWorker Linux Development -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig76]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SymbolDebugger-Linux-Debug
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SlateViewer-Linux-Debug
 
 [CustomBuildSystem][BuildConfig76][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Debug
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig76][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux Debug
+Arguments=./GenerateProjectFiles.sh  SlateViewer Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig76][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Debug -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Debug -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig77]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SymbolDebugger-Linux-DebugGame
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SlateViewer-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig77][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux DebugGame
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig77][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux DebugGame
+Arguments=./GenerateProjectFiles.sh  SlateViewer Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig77][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux DebugGame -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux DebugGame -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig78]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SymbolDebugger-Linux-Shipping
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SlateViewer-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig78][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Shipping
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig78][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux Shipping
+Arguments=./GenerateProjectFiles.sh  SlateViewer Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig78][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Shipping -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Shipping -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig79]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SymbolDebugger-Linux-Test
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SlateViewer-Linux-Test
 
 [CustomBuildSystem][BuildConfig79][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Test
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig79][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux Test
+Arguments=./GenerateProjectFiles.sh  SlateViewer Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig79][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Test -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Test -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig80]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=SymbolDebugger
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SlateViewer
 
 [CustomBuildSystem][BuildConfig80][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Development
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig80][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux Development
+Arguments=./GenerateProjectFiles.sh  SlateViewer Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig80][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Development -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SlateViewer Linux Development -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig81]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=TestPAL-Linux-Debug
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SymbolDebugger-Linux-Debug
 
 [CustomBuildSystem][BuildConfig81][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Debug
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig81][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  TestPAL Linux Debug
+Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig81][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Debug -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Debug -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig82]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=TestPAL-Linux-DebugGame
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SymbolDebugger-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig82][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux DebugGame
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig82][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  TestPAL Linux DebugGame
+Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig82][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux DebugGame -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux DebugGame -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig83]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=TestPAL-Linux-Shipping
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SymbolDebugger-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig83][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Shipping
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig83][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  TestPAL Linux Shipping
+Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig83][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Shipping -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Shipping -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig84]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=TestPAL-Linux-Test
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SymbolDebugger-Linux-Test
 
 [CustomBuildSystem][BuildConfig84][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Test
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig84][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  TestPAL Linux Test
+Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig84][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Test -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Test -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig85]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=TestPAL
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=SymbolDebugger
 
 [CustomBuildSystem][BuildConfig85][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Development
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig85][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  TestPAL Linux Development
+Arguments=./GenerateProjectFiles.sh  SymbolDebugger Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig85][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Development -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  SymbolDebugger Linux Development -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig86]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCEFSubProcess-Linux-Debug
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=TestPAL-Linux-Debug
 
 [CustomBuildSystem][BuildConfig86][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Debug
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig86][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux Debug
+Arguments=./GenerateProjectFiles.sh  TestPAL Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig86][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Debug -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Debug -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig87]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCEFSubProcess-Linux-DebugGame
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=TestPAL-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig87][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux DebugGame
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig87][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux DebugGame
+Arguments=./GenerateProjectFiles.sh  TestPAL Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig87][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux DebugGame -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux DebugGame -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig88]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCEFSubProcess-Linux-Shipping
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=TestPAL-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig88][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Shipping
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig88][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux Shipping
+Arguments=./GenerateProjectFiles.sh  TestPAL Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig88][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Shipping -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Shipping -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig89]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCEFSubProcess-Linux-Test
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=TestPAL-Linux-Test
 
 [CustomBuildSystem][BuildConfig89][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Test
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig89][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux Test
+Arguments=./GenerateProjectFiles.sh  TestPAL Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig89][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Test -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Test -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig90]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCEFSubProcess
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=TestPAL
 
 [CustomBuildSystem][BuildConfig90][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Development
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig90][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux Development
+Arguments=./GenerateProjectFiles.sh  TestPAL Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig90][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Development -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  TestPAL Linux Development -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig91]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCodeAnalyzer-Linux-Debug
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=UnrealCEFSubProcess-Linux-Debug
 
 [CustomBuildSystem][BuildConfig91][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux Debug
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig91][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCodeAnalyzer Linux Debug
+Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux Debug
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig91][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux Debug -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Debug -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig92]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCodeAnalyzer-Linux-DebugGame
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=UnrealCEFSubProcess-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig92][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux DebugGame
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig92][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCodeAnalyzer Linux DebugGame
+Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux DebugGame
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig92][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux DebugGame -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux DebugGame -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig93]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCodeAnalyzer-Linux-Shipping
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=UnrealCEFSubProcess-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig93][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux Shipping
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig93][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCodeAnalyzer Linux Shipping
+Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux Shipping
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig93][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux Shipping -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Shipping -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig94]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCodeAnalyzer-Linux-Test
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=UnrealCEFSubProcess-Linux-Test
 
 [CustomBuildSystem][BuildConfig94][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux Test
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig94][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCodeAnalyzer Linux Test
+Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux Test
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig94][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux Test -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Test -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig95]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
-Title=UnrealCodeAnalyzer
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
+Title=UnrealCEFSubProcess
 
 [CustomBuildSystem][BuildConfig95][ToolBuild]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux Development
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=0
 
 [CustomBuildSystem][BuildConfig95][ToolConfigure]
-Arguments=./GenerateProjectFiles.sh  UnrealCodeAnalyzer Linux Development
+Arguments=./GenerateProjectFiles.sh  UnrealCEFSubProcess Linux Development
 Enabled=true
 Environment=
 Executable=bash
 Type=1
 
 [CustomBuildSystem][BuildConfig95][ToolClean]
-Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCodeAnalyzer Linux Development -clean
+Arguments=Engine/Build/BatchFiles/Linux/Build.sh  UnrealCEFSubProcess Linux Development -clean
 Enabled=true
 Environment=
 Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig96]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFileServer-Linux-Debug
 
 [CustomBuildSystem][BuildConfig96][ToolBuild]
@@ -2427,7 +2427,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig97]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFileServer-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig97][ToolBuild]
@@ -2452,7 +2452,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig98]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFileServer-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig98][ToolBuild]
@@ -2477,7 +2477,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig99]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFileServer-Linux-Test
 
 [CustomBuildSystem][BuildConfig99][ToolBuild]
@@ -2502,7 +2502,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig100]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFileServer
 
 [CustomBuildSystem][BuildConfig100][ToolBuild]
@@ -2527,7 +2527,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig101]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFrontend-Linux-Debug
 
 [CustomBuildSystem][BuildConfig101][ToolBuild]
@@ -2552,7 +2552,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig102]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFrontend-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig102][ToolBuild]
@@ -2577,7 +2577,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig103]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFrontend-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig103][ToolBuild]
@@ -2602,7 +2602,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig104]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFrontend-Linux-Test
 
 [CustomBuildSystem][BuildConfig104][ToolBuild]
@@ -2627,7 +2627,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig105]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealFrontend
 
 [CustomBuildSystem][BuildConfig105][ToolBuild]
@@ -2652,7 +2652,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig106]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealHeaderTool-Linux-Debug
 
 [CustomBuildSystem][BuildConfig106][ToolBuild]
@@ -2677,7 +2677,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig107]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealHeaderTool-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig107][ToolBuild]
@@ -2702,7 +2702,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig108]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealHeaderTool-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig108][ToolBuild]
@@ -2727,7 +2727,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig109]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealHeaderTool-Linux-Test
 
 [CustomBuildSystem][BuildConfig109][ToolBuild]
@@ -2752,7 +2752,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig110]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealHeaderTool
 
 [CustomBuildSystem][BuildConfig110][ToolBuild]
@@ -2777,7 +2777,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig111]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLightmass-Linux-Debug
 
 [CustomBuildSystem][BuildConfig111][ToolBuild]
@@ -2802,7 +2802,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig112]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLightmass-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig112][ToolBuild]
@@ -2827,7 +2827,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig113]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLightmass-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig113][ToolBuild]
@@ -2852,7 +2852,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig114]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLightmass-Linux-Test
 
 [CustomBuildSystem][BuildConfig114][ToolBuild]
@@ -2877,7 +2877,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig115]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealLightmass
 
 [CustomBuildSystem][BuildConfig115][ToolBuild]
@@ -2902,7 +2902,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig116]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealPak-Linux-Debug
 
 [CustomBuildSystem][BuildConfig116][ToolBuild]
@@ -2927,7 +2927,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig117]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealPak-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig117][ToolBuild]
@@ -2952,7 +2952,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig118]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealPak-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig118][ToolBuild]
@@ -2977,7 +2977,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig119]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealPak-Linux-Test
 
 [CustomBuildSystem][BuildConfig119][ToolBuild]
@@ -3002,7 +3002,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig120]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealPak
 
 [CustomBuildSystem][BuildConfig120][ToolBuild]
@@ -3027,7 +3027,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig121]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealVersionSelector-Linux-Debug
 
 [CustomBuildSystem][BuildConfig121][ToolBuild]
@@ -3052,7 +3052,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig122]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealVersionSelector-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig122][ToolBuild]
@@ -3077,7 +3077,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig123]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealVersionSelector-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig123][ToolBuild]
@@ -3102,7 +3102,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig124]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealVersionSelector-Linux-Test
 
 [CustomBuildSystem][BuildConfig124][ToolBuild]
@@ -3127,7 +3127,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig125]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealVersionSelector
 
 [CustomBuildSystem][BuildConfig125][ToolBuild]
@@ -3152,7 +3152,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig126]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealWatchdog-Linux-Debug
 
 [CustomBuildSystem][BuildConfig126][ToolBuild]
@@ -3177,7 +3177,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig127]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealWatchdog-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig127][ToolBuild]
@@ -3202,7 +3202,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig128]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealWatchdog-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig128][ToolBuild]
@@ -3227,7 +3227,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig129]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealWatchdog-Linux-Test
 
 [CustomBuildSystem][BuildConfig129][ToolBuild]
@@ -3252,7 +3252,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig130]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=UnrealWatchdog
 
 [CustomBuildSystem][BuildConfig130][ToolBuild]
@@ -3277,7 +3277,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig131]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BootstrapPackagedGame-Linux-Debug
 
 [CustomBuildSystem][BuildConfig131][ToolBuild]
@@ -3302,7 +3302,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig132]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BootstrapPackagedGame-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig132][ToolBuild]
@@ -3327,7 +3327,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig133]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BootstrapPackagedGame-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig133][ToolBuild]
@@ -3352,7 +3352,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig134]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BootstrapPackagedGame-Linux-Test
 
 [CustomBuildSystem][BuildConfig134][ToolBuild]
@@ -3377,7 +3377,7 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig135]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=BootstrapPackagedGame
 
 [CustomBuildSystem][BuildConfig135][ToolBuild]
@@ -3402,250 +3402,250 @@ Executable=bash
 Type=3
 
 [CustomBuildSystem][BuildConfig136]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoom-Linux-Debug
 
 [CustomBuildSystem][BuildConfig136][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux Debug
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux Debug
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig136][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoom Linux Debug
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoom Linux Debug
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig136][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux Debug -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux Debug -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig137]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoom-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig137][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux DebugGame
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux DebugGame
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig137][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoom Linux DebugGame
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoom Linux DebugGame
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig137][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux DebugGame -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux DebugGame -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig138]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoom-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig138][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux Shipping
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux Shipping
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig138][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoom Linux Shipping
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoom Linux Shipping
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig138][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux Shipping -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux Shipping -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig139]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoom-Linux-Test
 
 [CustomBuildSystem][BuildConfig139][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux Test
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux Test
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig139][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoom Linux Test
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoom Linux Test
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig139][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux Test -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux Test -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig140]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoom
 
 [CustomBuildSystem][BuildConfig140][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux Development
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux Development
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig140][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoom Linux Development
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoom Linux Development
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig140][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoom Linux Development -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoom Linux Development -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig141]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoomEditor-Linux-Debug
 
 [CustomBuildSystem][BuildConfig141][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux Debug
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux Debug
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig141][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux Debug
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux Debug
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig141][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux Debug -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux Debug -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig142]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoomEditor-Linux-DebugGame
 
 [CustomBuildSystem][BuildConfig142][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux DebugGame
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux DebugGame
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig142][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux DebugGame
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux DebugGame
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig142][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux DebugGame -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux DebugGame -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig143]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoomEditor-Linux-Shipping
 
 [CustomBuildSystem][BuildConfig143][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux Shipping
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux Shipping
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig143][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux Shipping
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux Shipping
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig143][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux Shipping -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux Shipping -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig144]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoomEditor-Linux-Test
 
 [CustomBuildSystem][BuildConfig144][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux Test
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux Test
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig144][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux Test
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux Test
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig144][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux Test -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux Test -clean
 Enabled=true
 Environment=
 Executable=mono
 Type=3
 
 [CustomBuildSystem][BuildConfig145]
-BuildDir=file:///home/cephalgia/Tools/UnrealEngine-master
+BuildDir=file:///home/cephalgia/Tools/UnrealEngine-release
 Title=QuestRoomEditor
 
 [CustomBuildSystem][BuildConfig145][ToolBuild]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux Development
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux Development
 Enabled=true
 Environment=
 Executable=mono
 Type=0
 
 [CustomBuildSystem][BuildConfig145][ToolConfigure]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux Development
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -makefile -kdevelopfile  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" -game -engine  QuestRoomEditor Linux Development
 Enabled=true
 Environment=
 Executable=mono
 Type=1
 
 [CustomBuildSystem][BuildConfig145][ToolClean]
-Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/Unreal Projects/QuestRoom/QuestRoom.uproject" QuestRoomEditor Linux Development -clean
+Arguments=Engine/Binaries/DotNET/UnrealBuildTool.exe  -editorrecompile -project="/home/cephalgia/UnrealProjects/QuestRoom 4.17/QuestRoom.uproject" QuestRoomEditor Linux Development -clean
 Enabled=true
 Environment=
 Executable=mono
